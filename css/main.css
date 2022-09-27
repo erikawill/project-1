@@ -1,0 +1,9 @@
+/* Place CSS styles here */
+.button{
+    background-color: blue;
+    border-color: blue;
+    color: antiquewhite;
+  }
+  .button:hover{
+    background-color: blue;
+        }
