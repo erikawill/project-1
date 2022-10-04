@@ -1,11 +1,11 @@
 /* Place CSS styles here */
 .button{
-    background-color: blue;
-    border-color: blue;
+    background-color: beige;
+    border-color: beige;
     color: antiquewhite;
   }
   .button:hover{
-    background-color: blue;
+    background-color: black;
         }
 
 /*HEADER STYLES */
