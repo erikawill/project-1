@@ -1,11 +1,13 @@
 /* Place CSS styles here */
-.button{
+button{
     background-color: beige;
     border-color: beige;
     color: antiquewhite;
+    display: flex;
+    justify-content: center;
   }
-  .button:hover{
-    background-color: black;
+  button:hover{
+    background-color: beige;
         }
 
 /*HEADER STYLES */
