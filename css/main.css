@@ -1,15 +1,14 @@
 /* Place CSS styles here */
-.button{
+button{
     background-color: beige;
     border-color: beige;
-    color: antiquewhite;
+    color: black;
   }
-  .button:hover{
-    background-color: black;
+  button:hover{
+    background-color: white;
         }
 
 /*HEADER STYLES */
-.main header{
-  display: flex;
-  justify-content: space-between;
+main header{
+
 }
