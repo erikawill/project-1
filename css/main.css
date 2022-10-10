@@ -9,11 +9,29 @@ button{
     background-color: white;
         }
 
-logo{
-  color: beige;
+img{
+  display: flex;
+  justify-content: flex-end;
+}
+/*HEADER STYLES */
+<main>
+<main>
+
+main header{
+#Brownies {
+  display: flex: ;
 }
 
-/*HEADER STYLES */
-main header{
+#Cupcakes {
+  display:flex;
+  justify-content: flex-end;
+}
 
+#Cakes {
+
+}
+
+#Pies {
+
+}
 }
