@@ -3,10 +3,15 @@ button{
     background-color: beige;
     border-color: beige;
     color: black;
+    border-radius: 8px;
   }
   button:hover{
     background-color: white;
         }
+
+logo{
+  color: beige;
+}
 
 /*HEADER STYLES */
 main header{
